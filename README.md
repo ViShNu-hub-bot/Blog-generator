@@ -22,4 +22,4 @@ Check out the GitHub repository: [Blog Generator GitHub](https://github.com/your
 
 #BlogGenerator #Streamlit #Langchain #ContentCreation #ProductivityHack #Innovation #TechAdvancement #TimeSaver #BloggingMadeEasy #DigitalTransformation #EfficiencyBoost #ContentCreators #TechInnovation #StreamlineBlogging
 
-## Let's revolutionize the way we create content! 💻🚀 #BloggerL
+## Let's revolutionize the way we create content! 💻🚀 #Blogger
